@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimisa Mahato</h1>
-<h3 align="center">💻 Class 10 | Computer Engineering Student | C++ Enthusiast 🚀</h3>
+<h3 align="center">💻 Class 10 | Computer Engineering Student | Learning C++ 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding vibes">
@@ -30,7 +30,7 @@
 
 ---
 
-### 🔥 Animated Vibes  
+### 🔥 Vibes  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=💻+Coding+Day+%26+Night;⚡+Learning+C%2B%2B+Like+A+Beast;🚀+Future+Software+Engineer;🌟+Leveling+Up+Everyday" alt="Typing SVG" />
 </p>
@@ -40,7 +40,6 @@
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://github.com/NimisaMahato"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,4 +49,4 @@
 </p>
 
 ---
-⭐ *This README is powered by pure coding vibes* ⚡
+
