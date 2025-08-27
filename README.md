@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nimisa Mahato</h1>
-<h3 align="center">💻 Class 10 | Computer Engineering Student | Learning C++ 🚀</h3>
+<h3 align="center">💻 Class 10 | Computer Engineering Student | C++ Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding vibes">
+  <!-- Girl coding animation -->
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" alt="girl coding vibes">
 </p>
 
 ---
@@ -45,8 +46,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="coding desk animation">
+  <!-- Neon coding desk animation -->
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="600" alt="aesthetic coding desk">
 </p>
 
 ---
-
+⚡ *This README is powered by your one and only Nimisa* 🌙
