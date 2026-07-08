@@ -9,8 +9,8 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 Student of **Computer Engineering (Class 10)**  
-- 🌱 Currently learning **C++** (after mastering **C in Class 9**)  
+- 🎓 Student of **Computer Engineering (Grade 11**)
+- 🌱 Currently learning **C++** (after mastering **C in Grade 9 & C++ in grade 10**)  
 - 💻 Skilled in **HTML, CSS, JavaScript**  
 - 🚀 Passionate about becoming the **best version of myself** through coding  
 
