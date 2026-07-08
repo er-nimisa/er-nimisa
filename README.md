@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimisa Mahato</h1>
-<h3 align="center">💻 Class 10 | Computer Engineering Student | C++ Enthusiast 🚀</h3>
+<h3 align="center">💻 Grade 11| Computer Engineering Student | python Enthusiast 🚀</h3>
 
 <p align="center">
 
