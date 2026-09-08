@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimisa Mahato</h1>
-<h3 align="center">💻 Grade 11| Computer Engineering Student | python Enthusiast 🚀</h3>
+<h3 align="center">💻 Grade 11| Computer Engineering Student </h3>
 
 <p align="center">
 
@@ -10,7 +10,7 @@
 
 ### 🌟 About Me  
 - 🎓 Student of **Computer Engineering (Grade 11**)
-- 🌱 Currently learning **C++** (after mastering **C in Grade 9 & C++ in grade 10**)  
+- 🌱 Currently learning **java** (after mastering **C in Grade 9 & C++ in grade 10**)  
 - 💻 Skilled in **HTML, CSS, JavaScript**  
 - 🚀 Passionate about becoming the **best version of myself** through coding  
 
